@@ -1,3 +1,3 @@
 # angular-health-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ruqd5o)
+[View on StackBlitz ⚡️](https://mobile-health-demo-ruqd5o.stackblitz.io)
